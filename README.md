@@ -3,8 +3,8 @@
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="242596082_10159345034331992_1803981174984505845_n.jpg">
- <source media="(prefers-color-scheme: light)" srcset="242596082_10159345034331992_1803981174984505845_n.jpg">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="Screenshot 2023-01-21 at 16.00.20.png">
+ <img alt="YOUR-ALT-TEXT" src="Screenshot 2023-01-21 at 16.00.20.png">
 </picture>
 
 <!--
@@ -21,3 +21,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+| Rank | THING-TO-RANK |
+|-----:|---------------|
+|     1|               |
+|     2|               |
+|     3|               |
