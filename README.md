@@ -2,8 +2,8 @@
 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="242596082_10159345034331992_1803981174984505845_n.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="242596082_10159345034331992_1803981174984505845_n.jpg">
  <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
