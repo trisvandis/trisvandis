@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 <details>
 <summary>My top languages</summary>
-| Rank | THING-TO-RANK |
-|-----:|---------------|
-|     1| Python        |
-|     2| SQL           |
-|     3| VBA           |
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
+|     3| VBA       |
 </details>
