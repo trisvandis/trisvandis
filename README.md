@@ -21,7 +21,7 @@ An aspiring data scientist, I am currently undertaking bootcamp with HyperionDev
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="242596082_10159345034331992_1803981174984505845_n.jpg">
- <source media="(prefers-color-scheme: light)" srcset="Screenshot 2023-01-21 at 16.00.20.png">
+ <source media="(prefers-color-scheme: light)" srcset="Screenshot 2023-01-21 at 16.00.20 (2).png">
  <img alt="Tristan Bowles" src="Screenshot 2023-01-21 at 16.00.20.png">
 </picture>
 
