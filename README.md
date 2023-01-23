@@ -26,7 +26,7 @@ An aspiring data scientist, I am currently undertaking bootcamp with HyperionDev
 </picture>
 
 - 💬 Ask me about: Data Visualisation, Data Analysis, Python, PowerBi, Databases, MS Access, Excel, automation
-- 📫 Message me on LinkedIn: <a href='https://www.linkedin.com/in/tristan-bowles-25077323/'>LinkedIn</a>
+- 📫 Message me on LinkedIn: <a href='www.linkedin.com/in/tristan-bowles-25077323>LinkedIn</a>
 
 
 <!--
